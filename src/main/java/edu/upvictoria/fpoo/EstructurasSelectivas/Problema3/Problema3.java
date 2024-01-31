@@ -14,7 +14,7 @@ public class Problema3 {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));
         String entrada;
         int cant_lapices;
-        double costo, total;
+        double total;
         System.out.println("Cuantos lapices se decea adquirir: ");
         entrada = bufer.readLine();
         cant_lapices= Integer.getInteger(entrada);

@@ -8,7 +8,14 @@ public class Suma_dos_numeros {
         }
         return suma;
     }
-    public static double Sumar_numeros(int[] arr){
+    public static int Sumar_numeros(int[] arr){
+        int suma=0;
+        for(int i=0; i< 10; i++){
+            suma += arr[i];
+        }
+        return suma;
+    }
+    public static float Sumar_numeros(float[] arr){
         int suma=0;
         for(int i=0; i< 10; i++){
             suma += arr[i];

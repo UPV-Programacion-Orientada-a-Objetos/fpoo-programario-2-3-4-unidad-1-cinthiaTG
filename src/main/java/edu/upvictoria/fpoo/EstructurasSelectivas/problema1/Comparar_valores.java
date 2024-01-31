@@ -13,5 +13,17 @@ public class Comparar_valores {
         }
         return val1;
     }
+    public static  double Comparar_dos_valores_mayor_que(double val1, int val2){
+        if(val2>val1){
+            return val2;
+        }
+        return val1;
+    }
+    public static  double Comparar_dos_valores_mayor_que(int val1, double val2){
+        if(val2>val1){
+            return val2;
+        }
+        return val1;
+    }
 
 }

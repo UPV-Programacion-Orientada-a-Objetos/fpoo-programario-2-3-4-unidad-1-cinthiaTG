@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Numero_mayor {
-    public Numero_mayor() throws IOException {
+public class Problema1 {
+    public Problema1() throws IOException {
         BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));
         /**
          * Se desea implementar un programa para determinar cuál de dos valores

@@ -14,7 +14,6 @@ public class Problema2 {
         double[] numeros= new double[10];
         double suma=0;
         String entrada;
-        System.out.println("");
         for(int i=0; i< 10; i++){
             System.out.println("Ingresa un numero: ");
             entrada= bufer.readLine();
