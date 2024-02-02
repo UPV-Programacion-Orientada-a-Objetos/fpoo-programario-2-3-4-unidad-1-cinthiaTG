@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema4/Determinar_precio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema4/Problema4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema5/Problema5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema5/Volor_mayor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema6/Presupuesto_evento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema6/Problema6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Cotizacion_lapices_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Determinar_precio_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Presupuesto_evento_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Valor_mayor_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema3/Problema3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/Problema3/Problema3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema1/Comparar_valores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema1/Comparar_valores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema1/Numero_mayor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema1/Problema1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema2/Suma_dos_numeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema2/Suma_dos_numeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema2/Problema2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema2/Problema2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema2/Suma_dos_numeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EstructurasSelectivas/problema2/Suma_diez_numeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Comparar_Valores_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Comparar_Valores_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/Suma_dos_numero_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Suma_dos_numero_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +82,20 @@
       <command value="mvn exec:java" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.upvictoria.fpoo.Main" />
+      <module name="fpoo-programario-2-3-4-unidad-1-cinthiaTG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upvictoria.fpoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="edu.upvictoria.fpoo.Programario2.Programario3 in fpoo-programario-2-3-4-unidad-1-cinthiaTG" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fpoo-programario-2-3-4-unidad-1-cinthiaTG" />
       <extension name="coverage">
@@ -91,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.edu.upvictoria.fpoo.Programario2.Programario3 in fpoo-programario-2-3-4-unidad-1-cinthiaTG" />
       </list>
     </recent_temporary>

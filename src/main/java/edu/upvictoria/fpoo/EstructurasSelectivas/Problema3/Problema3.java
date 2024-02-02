@@ -17,7 +17,7 @@ public class Problema3 {
         double total;
         System.out.println("Cuantos lapices se decea adquirir: ");
         entrada = bufer.readLine();
-        cant_lapices= Integer.getInteger(entrada);
+        cant_lapices= Integer.parseInt(entrada);
 
         if (cant_lapices>100){
             total = Cotizacion_lapices.Precion_total_lapices_myor_100(cant_lapices);

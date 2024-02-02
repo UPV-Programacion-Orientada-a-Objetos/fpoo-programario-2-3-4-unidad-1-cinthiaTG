@@ -19,7 +19,7 @@ public class Problema2 {
             entrada= bufer.readLine();
             numeros[i]= Double.parseDouble(entrada);
         }
-        suma= Suma_dos_numeros.Sumar_numeros(numeros);
+        suma= Suma_diez_numeros.Sumar_numeros(numeros);
         System.out.println("La suma total es de: "+ suma);
     }
 }
