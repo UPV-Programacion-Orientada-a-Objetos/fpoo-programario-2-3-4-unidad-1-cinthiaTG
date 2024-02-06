@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio." />
+    <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2bdW8WI5OX2F9bgV5L8y5XgMYbG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
